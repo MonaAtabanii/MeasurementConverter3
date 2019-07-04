@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MeasurementConverter3</string>
+    <string-array name="conversionType">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    String[] conversionType = {"Miles to Kilometers","Kilometers to Miles",
+    "Inches to Centimeters", "Centimeters to Inches"};
+</resources>
